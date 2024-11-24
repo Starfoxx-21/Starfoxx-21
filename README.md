@@ -11,6 +11,6 @@ Currently Learning : `React`
 <hr />
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/6133f6ba-83f2-40c4-af3c-28977d419677/scale-to-width/370" style="width: 85px; height: 70px; alt="kirby walking"/>
+  <img src="https://giffiles.alphacoders.com/163/163328.gif" style="width: 85px; height: 70px; alt="kirby walking"/>
 </p>
 
