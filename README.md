@@ -4,9 +4,9 @@
 
 <hr />
 
-I'm familiar with : HTML, CSS, Javascript, Python, MySQL
+I'm familiar with : `HTML`, `CSS`, `Javascript`, `Python`, `MySQL`
 
-Currently Learning : React
+Currently Learning : `React`
 
 <hr />
 
