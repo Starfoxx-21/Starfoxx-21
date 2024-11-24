@@ -1,16 +1,15 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=3500&pause=1000&color=F7F7F7DF&center=true&multiline=true&repeat=false&width=500&height=65&lines=Christianna+%2F+Starfoxx;Frontend+Developer"     alt="Typing SVG" /></a>
+</p>
 
+<hr />
 
-<!--
-**Starfoxx-21/Starfoxx-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm familiar with : HTML, CSS, Javascript, Python, MySQL
 
-Here are some ideas to get you started:
+Currently Learning : React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<p align="center">
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-5963cf94fd.gif" alt="kirby walking"/>
+</p>
