@@ -11,5 +11,5 @@ Currently Learning : `React`
 <hr />
 
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-5963cf94fd.gif" alt="kirby walking"/>
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-5963cf94fd.gif" style="width: 85px; height: 70px; alt="kirby walking"/>
 </p>
