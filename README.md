@@ -12,4 +12,6 @@ Currently Learning : `React`
 
 <p align="center">
   <img src="https://s2.ezgif.com/tmp/ezgif-2-5963cf94fd.gif" style="width: 85px; height: 70px; alt="kirby walking"/>
+  ![ezgif-7-d9e55c335f](https://github.com/user-attachments/assets/fbf5d56e-9fc2-436b-9ca4-d4a45e6b9919)
 </p>
+
