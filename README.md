@@ -6,6 +6,8 @@
 
 I'm familiar with : `HTML`, `CSS`, `Javascript`, `Python`, `MySQL`
 
+Frameworks: `Bootstrap`, `Tailwind CSS`
+
 Currently Learning : `React`
 
 <hr />
