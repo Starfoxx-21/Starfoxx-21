@@ -10,6 +10,10 @@ Frameworks: `Bootstrap`, `Tailwind CSS`
 
 Currently Learning : `React`
 
+<br />
+
+I've experimented with: `Astro`
+
 <hr />
 
 <p align="center">
