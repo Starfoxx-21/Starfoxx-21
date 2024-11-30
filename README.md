@@ -4,15 +4,15 @@
 
 <hr />
 
-I'm familiar with: `HTML`, `CSS`, `Javascript`, `Python`, `MySQL`
+Familiar with: `HTML`, `CSS`, `Javascript`, `Python`, `MySQL`
 
 Frameworks: `Bootstrap`, `Tailwind CSS`
 
-Currently Learning: `React`
+Currently learning: `React`
 
 <br />
 
-I've experimented with: `Astro`
+Experimented with: `Astro`
 
 <hr />
 
