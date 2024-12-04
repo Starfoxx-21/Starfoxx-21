@@ -12,7 +12,7 @@ Currently learning: `React`
 
 <br />
 
-Experimented with: `Astro`
+Experimented with: `Astro`, `Svelte`
 
 <hr />
 
