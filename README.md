@@ -4,7 +4,7 @@
 
 <hr />
 
-Familiar with: `HTML`, `CSS`, `Javascript`, `Python`, `MySQL`
+Familiar with: `HTML`, `CSS`, `Javascript`
 
 Frameworks: `Bootstrap`, `Tailwind CSS`
 
@@ -12,7 +12,7 @@ Currently learning: `React`
 
 <br />
 
-Experimented with: `Astro`, `Svelte`
+Experimented with: `Astro`, `Svelte`, `Python`, `MySQL`
  
 <hr />
 
