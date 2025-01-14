@@ -8,11 +8,11 @@ Familiar with: `HTML`, `CSS`, `Javascript`
 
 Frameworks: `Bootstrap`, `Tailwind CSS`
 
-Currently learning: `React`
+Currently learning: `Svelte`, `Astro`
 
 <br />
 
-Experimented with: `Astro`, `Svelte`, `Python`, `MySQL`
+Experimented with: `Python`, `MySQL`
  
 <hr />
 
