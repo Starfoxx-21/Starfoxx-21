@@ -8,7 +8,7 @@ Familiar with: `HTML`, `CSS`, `Javascript`
 
 Frameworks: `Bootstrap`, `Tailwind CSS`
 
-Currently learning: `Svelte`, `Astro`
+Currently learning: `Svelte`, `Typescript`, `Astro`
 
 <br />
 
