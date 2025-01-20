@@ -6,7 +6,7 @@
 
 Familiar with: `HTML`, `CSS`, `Javascript`
 
-Frameworks: `Bootstrap`, `Tailwind CSS`
+Frameworks: `Tailwind CSS`, `Bootstrap`
 
 Currently learning: `Svelte`, `Typescript`, `Astro`
 
