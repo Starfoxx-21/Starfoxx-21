@@ -4,11 +4,11 @@
 
 <hr />
 
-Familiar with: `HTML`, `CSS`, `Javascript`
+Familiar with: `HTML`, `CSS`, `Javascript`, `Svelte`, `Astro`
 
-Frameworks: `Tailwind CSS`, `Bootstrap`
+Frameworks & Libraries: `Tailwind CSS`, `Bootstrap`, `Flowbite Svelte`
 
-Currently learning: `Svelte`, `Typescript`, `Astro`, `SvelteKit`
+Currently learning: `React`, `Typescript`, `SvelteKit`, `GSap`
 
 <br />
 
