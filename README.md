@@ -12,7 +12,7 @@ Currently learning: `React`, `Typescript`, `SvelteKit`, `GSAP`
 
 <br />
 
-Experimented with: `Python`, `MySQL`
+Experimented with: `Matter.js`, `Three.js`, `Python`, `MySQL`
  
 <hr />
 
