@@ -6,9 +6,9 @@
 
 Familiar with: `HTML`, `CSS`, `Javascript`, `Svelte`, `Astro`
 
-Frameworks & Libraries: `Tailwind CSS`, `Bootstrap`, `Flowbite Svelte`
+Frameworks & Libraries: `Tailwind CSS`, `GSAP`, `Bootstrap`, `Flowbite Svelte`
 
-Currently learning: `React`, `Typescript`, `SvelteKit`, `GSAP`
+Currently learning: `React`, `Typescript`, `SvelteKit`
 
 <br />
 
