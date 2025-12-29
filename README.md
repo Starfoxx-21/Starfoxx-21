@@ -8,11 +8,11 @@ Familiar with: `HTML`, `CSS`, `Javascript`, `Svelte`, `Astro`
 
 Frameworks & Libraries: `Tailwind CSS`, `GSAP`, `Bootstrap`, `Flowbite Svelte`
 
-Currently learning: `React`, `Typescript`
+Currently learning: `Three.js`, `React`, `Typescript`
 
 <br />
 
-Experimented with: `SvelteKit`, `Matter.js`, `Three.js`, `Python`, `MySQL`
+Experimented with: `SvelteKit`, `Matter.js`, `Python`, `MySQL`
  
 <hr />
 
