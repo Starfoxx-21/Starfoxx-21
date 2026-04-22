@@ -4,15 +4,17 @@
 
 <hr />
 
-Familiar with: `HTML`, `CSS`, `Javascript`, `Svelte`, `Astro`
+Languages: `HTML`, `CSS`, `Javascript`, `Typescript`,  
 
-Frameworks & Libraries: `Tailwind CSS`, `GSAP`, `Bootstrap`, `Flowbite Svelte`
+Frameworks & Libraries: `React`, `Svelte`, `Astro`, `Tailwind CSS`, `GSAP`, `Flowbite Svelte`
 
-Currently learning: `Three.js`, `React`, `Typescript`
+CMS / Platforms: `Craft CMS`
+
+Currently learning: `Three.js`, `Web Components`
 
 <br />
 
-Experimented with: `SvelteKit`, `Matter.js`, `Python`, `MySQL`
+Experimented with: `SvelteKit`, `Bootstrap`, `Matter.js`, `Python`, `MySQL`
  
 <hr />
 
